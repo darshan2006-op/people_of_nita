@@ -1,6 +1,4 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "out",
   "git": {
     "deploymentEnabled": {
       "main": true
